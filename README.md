@@ -11,8 +11,8 @@ Make it snow in the snowy place.
 It's a fun way to play around with basic computer graphics like human, cars , cable cars and weather effects!
 
 ## I used CodeBlocks and openGL 
-**to install CodeBlocks : https://www.codeblocks.org/downloads/
-**to setup openGl : 1) https://www.youtube.com/watch?v=7rLo69vCooU 
-                          2) https://www.youtube.com/watch?v=VMsTI_CC-jc 
+**to install CodeBlocks : https://www.codeblocks.org/downloads/ <br>
+**to setup openGl : 1) https://www.youtube.com/watch?v=7rLo69vCooU <br>
+                    2) https://www.youtube.com/watch?v=VMsTI_CC-jc <br>
 
-**If you want to see my project : https://www.youtube.com/watch?v=se_gC28p0Vo
+**If you want to see my project : https://www.youtube.com/watch?v=se_gC28p0Vo <br>
