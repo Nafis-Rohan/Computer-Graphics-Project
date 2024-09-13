@@ -1,4 +1,4 @@
-#Computer-Graphics-Project
+##Computer-Graphics-Project
 This is a beginner computer graphics project with three cool scenes:
 
 Urban Seaside: A city next to the ocean.
@@ -19,4 +19,4 @@ It's a fun way to play around with basic computer graphics like human, cars , ca
 
 **If you want to see my project : https://www.youtube.com/watch?v=se_gC28p0Vo <br>
 
-#Check the full Code in main.cpp file
+##Check the full Code in main.cpp file
