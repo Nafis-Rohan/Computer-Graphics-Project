@@ -13,6 +13,6 @@ It's a fun way to play around with basic computer graphics like human, cars , ca
 ## I used CodeBlocks and openGL 
 **to install CodeBlocks : https://www.codeblocks.org/downloads/
 **to setup openGl : 1) https://www.youtube.com/watch?v=7rLo69vCooU 
-                  2) https://www.youtube.com/watch?v=VMsTI_CC-jc 
+                          2) https://www.youtube.com/watch?v=VMsTI_CC-jc 
 
 **If you want to see my project : https://www.youtube.com/watch?v=se_gC28p0Vo
