@@ -1,6 +1,6 @@
 ## Computer-Graphics-Project 
 
-This is a beginner computer graphics project with three cool scenes:
+This is a computer graphics project with three cool scenes:
 
 **1st Scenario**: A city hub with trains, ships, and cars amidst tall buildings, parks, and a flowing river.  
 **2nd Scenario**: A peaceful riverside village with huts, boats, and hills surrounded by trees, clouds, and the sun.  
